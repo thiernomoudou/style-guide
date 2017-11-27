@@ -27,6 +27,13 @@
 
 h1{
 	margin-top: 50px;
+	line-height: 0;
+
+}
+
+h3{
+	line-height: 0;
+	margin-top: 40px;
 }
 
 
@@ -54,7 +61,7 @@ ul p {
 	vertical-align: middle;
 	padding-bottom: 20px;
 	height: 50px;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 ul .name-color{
@@ -100,7 +107,7 @@ ul .snow:before {
 
 .typo{
 	line-height: 1;
-	margin-bottom: 50px;
+	margin-bottom: 30px;
 }
 
 .typo p:first-child{
@@ -156,7 +163,60 @@ ul .snow:before {
 	color: #565656;
 }
 
+.typography a{
+	color: #e82535;
+	text-decoration: dotted;
+}
 
+.typography .link-text{
+	padding-left: 10px;
+	font-size: 12px;
+}
 
+/***********************************/
+          /*BUTTONS*/
+/*************************************/
 
+.button-group1, .button-group2{
+	margin-bottom: 20px;
+}
+
+.inner
+{
+    display: inline-block;
+    margin-left: 10px;
+}
+
+.btn{
+	width: 120px;
+	border-radius: 40px/32px;
+	color: #ffffff;
+	font-weight: 500;
+}
+
+.btn1{
+	background-color: #77848e;
+}
+
+.btn2{
+    background-color: #e82535;
+}
+
+.btn3{
+    background-color: #ffffff;
+    color: black;
+    border: 0.4px solid #565656;
+}
+
+.btn4{
+    background-color: #565656;
+}
+
+.btn5{
+    background-color: #c92830;
+}
+
+.btn6{
+    background-color: #074f67;
+}
 
