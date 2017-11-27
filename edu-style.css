@@ -52,7 +52,7 @@ ul {
 
 ul p:before {
     content: '\2022';
-    padding-right: 15px;
+    padding-right: 20px;
     font-size: 200px;
     vertical-align: middle
 }
@@ -66,8 +66,42 @@ ul p {
 
 ul .name-color{
 	font-weight: bold;
-	padding-right: 10px;
+	padding-right: 50px;
 }
+
+ul .col1{
+	padding-right: 60px;
+}
+
+ul .col2{
+	padding-right: 92px;
+}
+
+ul .col3{
+	padding-right: 75px;
+}
+
+ul .col4{
+	padding-right: 80px;
+}
+
+ul .col5{
+	padding-right: 100px;
+}
+
+ul .col6{
+	padding-right: 65px;
+}
+
+ul .col7{
+	padding-right: 100px;
+}
+
+ul .col8{
+	padding-right: 117px;
+}
+
+
 
 ul .candy-apple:before{
 	color: #e82535;
