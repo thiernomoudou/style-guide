@@ -3,7 +3,8 @@
 This is a document i made to gather some commands and tips that i get during development issues fixing.
 
 1.to connect to a docker postgresql database image:
-```docker exec -it <docker database image name> psql -U <databaseusername> -W <dbpassword> <dbname>
+```
+docker exec -it <docker database image name> psql -U <databaseusername> -W <dbpassword> <dbname>
 ```
 
 You could not provide password and dbname  if you connect as Root for linux system
@@ -14,7 +15,8 @@ You could not provide password and dbname  if you connect as Root for linux syst
 
 use this command to list all tables in a postgresql database
 
-```\dt *.*
+```
+\dt *.*
 ```
 to delete database column
 
