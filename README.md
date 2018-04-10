@@ -1,6 +1,6 @@
 # style guide
 
-This is a style guide of one my project built with Html5, CSS3 and Bootsrap3.
+This is a style guide for one of my project, built with Html5, CSS3 and Bootsrap3.
 
 You can use it as a boileplate for making your own project style guide
 
